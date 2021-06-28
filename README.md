@@ -74,6 +74,10 @@ Contains the jupyter notebook in html format
 ## Results <a name="results"></a>
 The main findings of the code and a detailed analysis can be found at the post available [here: medium.com](https://uemitsahin.medium.com/starbucks-capstone-project-f029d2b599f5).
 
+I think it is obvious that this project was very challenging, due to the structure of the data
+As shown in the ‘Detection’ in the post, the predictions were wrongly analyzed as ‘offer received’. 
+This is due to the amount of occurences of the offer type.
+While majority classes were performing well, minority classes didn’t perform well, due to the imbalanced dataset.
 
 ## Licensing, Authors, Acknowledgements, etc. <a name="licensing"></a>
 Must give credit to Starbucks for the data.
