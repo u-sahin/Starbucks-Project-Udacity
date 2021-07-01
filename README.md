@@ -79,6 +79,9 @@ As shown in the ‘Detection’ in the post, the predictions were wrongly analyz
 This is due to the amount of occurences of the offer type.
 While majority classes were performing well, minority classes didn’t perform well, due to the imbalanced dataset.
 
+After changing the sample amount of each event, I was able to increase the accuracy by a tiny bit.
+This shows that, with a more balanced dataset, it is possible to increase the accuracy.
+
 ## Licensing, Authors, Acknowledgements, etc. <a name="licensing"></a>
 Must give credit to Starbucks for the data.
 Otherwise, feel free to use the code here as you would like! 
